@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup4 as bs
 import requests
 
 base = "https://www.youtube.com/result?search_query="
